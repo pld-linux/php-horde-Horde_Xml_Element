@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Xml Element object
 Name:		php-horde-Horde_Xml_Element
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	cb15bd25f144ac4d1d175e16f0ca6f90
+# Source0-md5:	f3780bd9e554e3d7235a5ef159a1d4ed
 URL:		https://github.com/horde/horde/tree/master/framework/Xml_Element/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
