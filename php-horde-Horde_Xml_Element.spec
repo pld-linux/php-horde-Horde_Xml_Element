@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Xml_Element
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Xml Element object
 Name:		php-horde-Horde_Xml_Element
 Version:	1.0.1
