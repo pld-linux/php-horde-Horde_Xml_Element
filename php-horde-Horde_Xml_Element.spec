@@ -3,7 +3,7 @@
 Summary:	%{pearname} - Horde Xml Element object
 Name:		php-horde-Horde_Xml_Element
 Version:	1.0.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
